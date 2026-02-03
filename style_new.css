@@ -5,3 +5,15 @@
 .header{
     color: brown;
 }
+
+
+.two{
+    color: brown;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700;
+}
+
+.image{
+    height: 400;
+    width: 400px;
+}
